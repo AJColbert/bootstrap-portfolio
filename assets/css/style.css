@@ -42,9 +42,44 @@ html {
     max-width: 680px;
     padding: 0 15px;
     text-align: center;
+    margin: auto;
 }
 
-.jumbotronextra{
+.jumbotronextra{  
     background-color: #fff;
     border: 1px solid #dddddd;
+   
+    
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.navcontent{
+    width:71%;
+    margin:0 auto;
+}
+.customnav{
+    width: 100%;
+    padding: 0;
+}
+
+#h1{
+    background-color: #4aaaa5;
+    color: white;
+    padding: 5% 11%;
+    
+}
+
+.navlinks{
+    padding-top: 10%;
+}
+.navlinks a{
+    border-right: 1px solid grey;
+    border-color: #cccccc;
+}
+.navlinks a:last-child{
+    border-right: none;
 }
