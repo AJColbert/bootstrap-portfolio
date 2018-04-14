@@ -1,7 +1,12 @@
 body{
     background: url(../images/dust_scratches.png);
     background-size: auto, cover;
+    
 }
+html {
+    position: relative;
+    min-height: 100%;
+  }
 
 #profilepic {
     width: 190px;
@@ -17,4 +22,29 @@ body{
 
 .topspace{
     margin-top: 5%;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    
+    border-top: 5px solid #4aaaa5;
+    background-color: #666666;
+    font-size: 12px;
+}
+.footer p {
+    margin: 30px auto 0px auto;
+}
+
+.container2{
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+    text-align: center;
+}
+
+.jumbotronextra{
+    background-color: #fff;
+    border: 1px solid #dddddd;
 }
