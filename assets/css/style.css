@@ -96,3 +96,15 @@ hr{
 .jumbotron p{
       line-height: 2;
 }
+
+.btncustom{
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+    color: white;
+    cursor: pointer;
+}
+
+.btncustom:hover{
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+}
