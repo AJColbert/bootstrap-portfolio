@@ -83,6 +83,7 @@ html {
     border-right: none;
 }.customcontainer{
     width:58%;
+    margin-bottom: 5em;
 }
 
 hr{
@@ -108,3 +109,23 @@ hr{
     background-color: #4aaaa5;
     border-color: #4aaaa5;
 }
+.overlaycustom{
+padding: 0;
+}
+
+.card-title-custom{
+    background-color: #4aaaa5;
+    color: white;
+    padding: 0.8em;
+    width: 100%;
+
+}
+
+.card-custom{
+    max-width: 18rem;  
+}
+
+.custom-row{
+    margin-bottom: 2em;
+}
+
