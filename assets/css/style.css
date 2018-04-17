@@ -113,6 +113,10 @@ hr{
 padding: 0;
 }
 
+.overlaycustom h5{
+    font-size:1em;
+    }
+
 .card-title-custom{
     background-color: #4aaaa5;
     color: white;
